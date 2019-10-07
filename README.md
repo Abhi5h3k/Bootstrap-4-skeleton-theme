@@ -2,7 +2,7 @@
 
  [![Abhishek LinkedIn](https://img.shields.io/badge/Abhishek-LinkedIn-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/abhishek-bhardwaj-b16764166) [![Abhishek StackOverflow](https://img.shields.io/badge/Abhishek-StackOverflow-orange.svg?style=for-the-badge)](https://stackoverflow.com/users/6870223/abhi?tab=profile)
 
- ![Mobile View](https://media.giphy.com/media/hqaHLIlp5wuBnuE0fG/giphy.gif)![Pc View](https://media.giphy.com/media/LmmKdvt12RQFJNs8a9/giphy.gif)
+ ![Mobile View](https://media.giphy.com/media/hqaHLIlp5wuBnuE0fG/giphy.gif)    ![Pc View](https://media.giphy.com/media/LmmKdvt12RQFJNs8a9/giphy.gif)
 
  ## Getting Started
 
