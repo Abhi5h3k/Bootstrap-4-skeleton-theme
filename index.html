@@ -1,3 +1,6 @@
+<!-- Simple Bootstrap 4 Skeleton with smooth css scroll-->
+<!-- https://github.com/Abhi5h3k/Bootstrap-4-skeleton-theme -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +15,9 @@
   <!--  -->
   <!-- Style CSS -->
   <link rel="stylesheet" type="text/css" href="./styles/styles.css" />
+  <!--  -->
+  <!-- Font Awesome -->
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <!--  -->
 </head>
 <body>
@@ -30,13 +36,13 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Section 2</a>
+                <a class="nav-link" href="#section1">Section 1</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Section 3</a>
+                <a class="nav-link" href="#section2">Section 2</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">contact</a>
+                <a class="nav-link" href="#contact">contact</a>
               </li>
             </ul>
           </div>
@@ -45,16 +51,20 @@
     <!--  -->
 
       <div class="container-fluid">
-        <div class="row section1">
+        <div class="row section1" id="section1">
           <div class="col-lg-8">1</div>
           <div class="col-lg-4">2</div>
         </div>
-        <div class="row section2">
+        <div class="row section2" id="section2">
           <div class="col-lg-6">3</div>
           <div class="col-lg-6">4</div>
         </div>
-        <div class="row contact section3 text-white">
-          <div class="col-lg-12 footer">5</div>
+        <div class="row contact section3 text-white" id="contact">
+          <div class="col-lg-12 footer">
+            
+            <a href="#"><img class="pull-right" src="./images/up-arrow-abhi.png" alt="up-arrow"></a>
+
+          </div>
           © 2019 Your Company. All Rights Reserved.
         </div>
       </div>

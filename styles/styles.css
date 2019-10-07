@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 .row{
     height: 100vh;
     color: #000;
@@ -20,4 +24,11 @@
 .footer {
     height: 93vh;
     background-color: #222;
+}
+.footer img{
+  position: relative;
+  top: 98%;
+  width: 2%;
+  cursor: pointer;
+ 
 }
