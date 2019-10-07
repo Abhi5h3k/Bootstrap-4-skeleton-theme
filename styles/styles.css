@@ -1,0 +1,23 @@
+.row{
+    height: 100vh;
+    color: #000;
+    background: #dcdcdc;
+   
+}
+
+.section1 :first-child {
+    background-color: #f0b615;
+  }
+
+.section2 :nth-child(2){
+    background-color: #228be6;
+}
+
+.section3{
+    background-color: #111;
+}
+
+.footer {
+    height: 93vh;
+    background-color: #222;
+}
